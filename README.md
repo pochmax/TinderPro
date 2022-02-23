@@ -10,3 +10,6 @@ How to start it :
 
 How to stop it :
 Ctrl + c
+
+Expo link:
+-> https://expo.dev/@pochmax/TinderPro?serviceType=classic&distribution=expo-go
