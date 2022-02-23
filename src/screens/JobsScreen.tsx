@@ -155,7 +155,7 @@ const styles = StyleSheet.create({
 
   boutton: {
     borderRadius: 100,
-    marginTop: 450,
+    marginTop: 250,
   },
   button: {
     fontSize: 60,
