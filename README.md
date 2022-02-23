@@ -1,7 +1,6 @@
 # TinderPro
 
 App Name : Tinder Pro
-
 Dev language : React-Native
 
 How to start it :
