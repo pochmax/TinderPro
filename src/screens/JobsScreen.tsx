@@ -20,6 +20,7 @@ const renderItem = ({ item }) => {
 export const JobsScreen = () => {
   const datas = data.results;
   // const test = JSON.par
+
   const transformedData = [
     datas[0].company_name +
       "                               " +
