@@ -12,3 +12,5 @@ Ctrl + c
 
 Expo link:
 -> https://expo.dev/@pochmax/TinderPro?serviceType=classic&distribution=expo-go
+
+![alt text](https://github.com/pochmax/TinderPro/blob/main/gif.gif?raw=true)
